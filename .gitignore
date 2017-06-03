@@ -1,0 +1,11 @@
+# compiled python
+*.pyc
+
+# general ignore
+build/
+dist/
+*__pycache__/
+*cache
+
+# docs
+docs/
